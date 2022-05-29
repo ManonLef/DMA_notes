@@ -14,3 +14,4 @@
 
 - send out a questionnaire to people what their struggles were when first joining discord and with this server specifically. 
 - birthday bot for community shoutouts?
+- motivational/connect: #100DaysOf(community)
