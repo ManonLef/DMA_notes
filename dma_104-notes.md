@@ -1,8 +1,8 @@
 ## **Important links for this DMA lesson**
 
-[Discord Community Guidelines](https://discord.com/guidelines)
-[Discord TOS](https://discord.com/terms)
-[Discord Safety Center](https://discord.com/safety)
+- [Discord Community Guidelines](https://discord.com/guidelines)
+- [Discord TOS](https://discord.com/terms)
+- [Discord Safety Center](https://discord.com/safety)
 
 ## **Questions from going through this lesson**
 
