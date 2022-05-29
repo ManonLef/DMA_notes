@@ -14,4 +14,3 @@ Questions to answer from this article:
 
 - send out a questionnaire to people what their struggles were when first joining dicord and with the TOP server specifically. 
 - birthday bot for community shoutouts?
-- 
