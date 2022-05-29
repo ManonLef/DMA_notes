@@ -1,4 +1,4 @@
-Questions to answer from this article:
+**Questions to answer from this article:**
 
 - Determining what the TOP discord purpose and interest is?
 	- What is this community for?
