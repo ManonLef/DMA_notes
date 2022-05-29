@@ -1,3 +1,5 @@
+# 104: How to Report Content to Discord
+
 ## **Important links for this DMA lesson**
 
 - [Discord Community Guidelines](https://discord.com/guidelines)

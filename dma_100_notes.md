@@ -1,3 +1,5 @@
+# 100: An intro to the DMA
+
 **Questions to answer from this article:**
 
 - Determining what the discord purpose and interest is?
