@@ -25,9 +25,10 @@
 **Summary Methods of Reporting**
 
 1. DAR/DnR = Delete and Report
-	- ![DAR screenshot](./images/Screenshot%202022-05-29%20at%2021.17.37.png)
 	- If we want to delete a message (not on iOS) we can turn on this option as shown in the above image.
 	- If you DAR messages, you should also be sure to complete a full report using the Online form below.
+    ![DAR screenshot|200](./images/Screenshot%202022-05-29%20at%2021.17.37.png)
+
 2. Online Form
 	- [Online form](https://dis.gd/request)
 	- Message IDs entered into the form will not be saved when the message is deleted unless you use DAR.
